@@ -20,7 +20,7 @@ To use the simulator, run the compiled executable and input the following when p
 - The output of the simulator will be written to a file called `output_vm.txt`.
 
 # File structure
-`main.cpp`: The main C++ source file containing the implementation of the virtual memory simulator
+`vm.cpp`: The main C++ source file containing the implementation of the virtual memory simulator
 
 `page.h`: The header file defining the Page class used to represent a page in virtual memory
 
