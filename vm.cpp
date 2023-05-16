@@ -10,7 +10,7 @@ string TRACE = "ptrace.txt";
 vector<char> R(4), IR(4);
 int IC = 0;
 
-//string to store algorithm choice from user
+//string to store algorithm choice from the user
 string algo = "";
 
 // pSize is parsed from pList showing each process id and it's size <<pid, size> ...>
